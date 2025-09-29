@@ -1,4 +1,4 @@
-## Hi! I'm Andrea.
+## Hi! I'm Andrea, an aspiring software engineer and data scientist based in the Philippines.
 
 ⚡ Learning: How to get good
 
@@ -6,16 +6,18 @@
 
 Capture The Flag (CTF) Competitions Joined:
 
-Name	Team Name	Place
-HackForGov 3 Region VII 2024	USC La Boyos	5th out of 10 Teams
-Trend Micro University Capture The Flag 2024	USC Star Platinum	10th out of 187 Teams
-Trend Micro University Capture The Flag 2025	USC Josh Hutcherson	2nd out of 199 Teams
-Tech Stack/Tools
-c html css js react nodejs expressjs mysql canva figma vscode ps w11 linux ubuntu kali cisco wireshark
+Tech Stack
+- HTML
+- CSS
+- JS
+- SQL
+- C
 
-Here are some ideas to get you started:
+Tools
+- Canva
+- Figma
+- VSCode
 
-I’m Miraya, a design engineer based in Germany.
 
 I design and build whatever I can imagine.
 
