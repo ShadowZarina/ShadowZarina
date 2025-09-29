@@ -1,7 +1,6 @@
 ## Hi! I'm Andrea, an aspiring software engineer and data scientist based in the Philippines.
 
-
-Interests: Data science, frontend website building
+Interests: Data science, Frontend website building
 
 ## Tech Stack & Tools
 
@@ -13,9 +12,7 @@ My Tech Stack
 - C
 
 My Favorite Tools
-- Canva
-- Figma
-- VSCode
+- Canva, Figma, VSCode
 
 My Favorite 
 
