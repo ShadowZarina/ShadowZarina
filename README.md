@@ -1,6 +1,7 @@
 ## Hi! I'm Andrea, an aspiring software engineer and data scientist based in the Philippines.
 
 Timezone: GMT+8
+
 Interests: 
 - Data science
 - Frontend website building
