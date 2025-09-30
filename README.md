@@ -1,6 +1,6 @@
 ## Hi! I'm Andrea, an aspiring software engineer and data scientist based in the Philippines.
 
-Interests: Data science, Frontend website building
+Interests: Data science, frontend website building, cybersecurity
 
 ## Tech Stack & Tools
 
