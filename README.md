@@ -49,10 +49,10 @@ PRODUCTIVITY
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 
-<div>
+
 ### My Favorite Repositories
 - C Projects & Frontend Mentor
-</div>
+
 
 ### Current Goals:
 - Finish Harvard's CS50
