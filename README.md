@@ -1,6 +1,9 @@
 ## Hi! I'm Andrea, an aspiring software engineer and data scientist based in the Philippines.
 
-Interests: Data science, frontend website building, cybersecurity
+Interests: 
+- Data science
+- Frontend website building
+- Cybersecurity
 
 ## Tech Stack & Tools
 
@@ -16,7 +19,7 @@ Interests: Data science, frontend website building, cybersecurity
 </div>
 
 #### My Favorite Tools
-VSCode
+
 ART
 <div>
   <img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" />
@@ -27,6 +30,7 @@ ART
   <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
+
 CODING
 <div>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -35,6 +39,7 @@ CODING
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
+
 PRODUCTIVITY
 <div>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
@@ -44,6 +49,7 @@ PRODUCTIVITY
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
+
     
 My Favorite Repositories
 - C Projects & Frontend Mentor
