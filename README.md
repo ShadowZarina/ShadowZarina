@@ -6,9 +6,15 @@ Interests: Data science, frontend website building, cybersecurity
 
 My Tech Stack
 - HTML, CSS, JS, SQL, C, Python
+<div>
+  <img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" />
+</div>
 
 My Favorite Tools
 - Canva, Figma, VSCode
+<div>
+  <img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white" />
+</div>
 
 My Favorite Repositories
 - C Projects & Frontend Mentor
