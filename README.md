@@ -1,22 +1,22 @@
-# Hi! I'm Andrea.
+# ✨ Hi! I'm Andrea.
 
-## About Me
+## 🌸 About Me
 I am a first-year Computer Science student at the University of San Carlos, passionate about learning data science, building front-end websites and programs, and making an impact in the world through code.
 
 Timezone: GMT+8
 
-### Interests: 
+### ִ🦋 Interests: 
 - Data science
 - Frontend website building
 - Cybersecurity
 
-## What I'm Up To
+## 🍒 What I'm Up To
 - Working on finishing Harvard's CS50
 - Learning DSA with C and Python
 - Completing Blind 75 in LeetCode
 - Creating 20 projects in Frontend Mentor
 
-## Tech Stack & Tools
+## ❤︎ Tech Stack & Tools
 
 #### My Tech Stack
 <div>
@@ -69,12 +69,12 @@ PRODUCTIVITY
 ### My Favorite Repositories
 - C Projects & Frontend Mentor
 
-## More Info 
+## 🌻 More Info 
 - 🔭 I’m currently working on contributing problem sets on Ciscode and building websites with Frontend Mentor!
 - 🌱 I’m currently learning DSA using C and Python!
 - 👯 I’m looking to collaborate on C or Python-based open-source repositories here in GitHub!
 - 💬 Ask me about C, HTML and CSS!
 
-## Connect with Me
+##🪞Connect with Me
 - 📫 You can reach me through tochipandrea@gmail.com or through my GitHub!
 
