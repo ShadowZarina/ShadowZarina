@@ -5,7 +5,7 @@ I am a first-year Computer Science student at the University of San Carlos, pass
 
 Timezone: GMT+8
 
-### ִ🦋 Interests: 
+### 🦋 Interests: 
 - Data science
 - Frontend website building
 - Cybersecurity
@@ -75,6 +75,6 @@ PRODUCTIVITY
 - 👯 I’m looking to collaborate on C or Python-based open-source repositories here in GitHub!
 - 💬 Ask me about C, HTML and CSS!
 
-##🪞Connect with Me
+## 🪞Connect with Me
 - 📫 You can reach me through tochipandrea@gmail.com or through my GitHub!
 
