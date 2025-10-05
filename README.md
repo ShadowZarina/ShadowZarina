@@ -5,7 +5,7 @@ I am a first-year Computer Science student at the University of San Carlos, pass
 
 Timezone: GMT+8
 
-#### Interests: 
+### Interests: 
 - Data science
 - Frontend website building
 - Cybersecurity
