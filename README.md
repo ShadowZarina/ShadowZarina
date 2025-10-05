@@ -1,4 +1,4 @@
-# ✨ Hi! I'm Andrea.
+# Hi! I'm Andrea. ✨
 
 ## 🌸 About Me
 I am a first-year Computer Science student at the University of San Carlos, passionate about learning data science, building front-end websites and programs, and making an impact in the world through code.
