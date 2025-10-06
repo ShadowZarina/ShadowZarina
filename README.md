@@ -16,7 +16,7 @@ Timezone: GMT+8
 - Completing Blind 75 in LeetCode
 - Creating 20 projects in Frontend Mentor
 
-## ❤︎ Tech Stack & Tools
+## 💖 Tech Stack & Tools
 
 #### My Tech Stack
 <div>
