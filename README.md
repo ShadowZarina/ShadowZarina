@@ -11,8 +11,7 @@ Timezone: GMT+8
 - Cybersecurity
 
 ## 🍒 What I'm Up To
-- Working on finishing Harvard's CS50
-- Learning DSA with Python
+- Learning DSA on Python and C
 - Completing Blind 75 in LeetCode
 - Finishing Neetcode 150 in LeetCode
 - Creating 20 projects in Frontend Mentor
