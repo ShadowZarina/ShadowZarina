@@ -67,16 +67,6 @@ PRODUCTIVITY
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 
-
-### My Favorite Repositories
-- C Projects & Frontend Mentor
-
-## 🌻 More Info 
-- 🔭 I’m currently working on contributing problem sets on Ciscode and building websites with Frontend Mentor!
-- 🌱 I’m currently learning DSA using C and Python!
-- 👯 I’m looking to collaborate on C or Python-based open-source repositories here in GitHub!
-- 💬 Ask me about C, HTML and CSS!
-
 ## 🪞Connect with Me
 - 📫 You can reach me through tochipandrea@gmail.com or through my GitHub!
 
