@@ -12,10 +12,16 @@ Timezone: GMT+8
 - Cybersecurity
 
 ## 🍒 What I'm Up To
+- Developing my Computer Science Portfolio
+- Finishing Neetcode 150 in LeetCode
+- Learning Data Structures and Algorithms (DSA)
+- Working on Potential Thesis Projects
+<!--
 - Learning DSA on Python and C
 - Completing Blind 75 in LeetCode
 - Finishing Neetcode 150 in LeetCode
 - Creating 20 projects in Frontend Mentor
+-->
 
 ## 💖 Tech Stack & Tools
 
@@ -55,9 +61,10 @@ CODING
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 </div>
-
+<!--
 PRODUCTIVITY
-
+-->
+<!--
 <div>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
@@ -66,7 +73,7 @@ PRODUCTIVITY
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
-
+-->
 ## 🪞Connect with Me
 - 📫 You can reach me through tochipandrea@gmail.com or through my GitHub!
 
