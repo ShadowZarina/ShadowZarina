@@ -1,15 +1,17 @@
 # Hi! I'm Andrea. ✨
 
 ## 🌸 About Me
-- 1st Year Computer Science student at the University of San Carlos
+- 2nd Year Computer Science student at the University of San Carlos
 - Passionate about learning data science, building front-end websites and programs, and making an impact in the world through code.
 
 Timezone: GMT+8
 
 ### 🦋 Interests: 
-- Data science
-- Frontend website building
+- UX/UI
 - Cybersecurity
+- Data Science
+- Project Management & Organization
+- Full-Stack Websites
 
 ## 🍒 What I'm Up To
 - Developing my Computer Science Portfolio
