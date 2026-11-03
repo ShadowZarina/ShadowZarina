@@ -1,0 +1,16 @@
+name: Generate koi
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:       # lets you run it manually
+
+permissions:
+  contents: write          # lets the action commit the image to your repo
+
+jobs:
+  koi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: git-profile-koi
+        uses: yalongwastaken/git-koi@v1.0.2
