@@ -1,12 +1,15 @@
-# Hi! I'm Andrea. ✨
 
-![my koi](path/to/generated-koi.gif)
+<!--<br clear="right">-->
+
+# Hi! I'm Andrea. ✨
 
 ## 🌸 About Me
 - 2nd Year Computer Science student at the University of San Carlos
 - Passionate about learning data science, building front-end websites and programs, and making an impact in the world through code.
 
 Timezone: GMT+8
+
+<img align="right" src="koi/koi.gif" width="256" alt="My koi">
 
 ### 🦋 Interests: 
 - UX/UI
