@@ -1,5 +1,7 @@
 # Hi! I'm Andrea. ✨
 
+![my koi](path/to/generated-koi.gif)
+
 ## 🌸 About Me
 - 2nd Year Computer Science student at the University of San Carlos
 - Passionate about learning data science, building front-end websites and programs, and making an impact in the world through code.
