@@ -7,9 +7,10 @@
 - 2nd Year Computer Science student at the University of San Carlos
 - Passionate about learning data science, building front-end websites and programs, and making an impact in the world through code.
 
+<img align="right" src="koi/koi.gif" width="256" alt="My koi">
+
 Timezone: GMT+8
 
-<img align="right" src="koi/koi.gif" width="256" alt="My koi">
 
 ### 🦋 Interests: 
 - UX/UI
