@@ -12,7 +12,7 @@
 Timezone: GMT+8
 
 
-### 🦋 Interests: 
+## 🦋 Interests: 
 - UX/UI
 - Cybersecurity
 - Data Science
@@ -33,7 +33,7 @@ Timezone: GMT+8
 
 ## 💖 Tech Stack & Tools
 
-#### My Tech Stack
+### Tech Stack
 <div>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -46,9 +46,7 @@ Timezone: GMT+8
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
 </div>
 
-#### My Favorite Tools
-
-ART
+### Art Software
 
 <div>
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
@@ -60,7 +58,7 @@ ART
   <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" />
 </div>
 
-CODING
+### Tech Frameworks & Tools
 
 <div>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
