@@ -9,7 +9,7 @@
 
 <img align="right" src="koi/koi.gif" width="256" alt="My koi">
 
-Timezone: GMT+8
+**Timezone**: GMT+8
 
 
 ## 🦋 Interests: 
