@@ -84,12 +84,25 @@ PRODUCTIVITY
 </div>
 -->
 
-# 📊 GitHub Stats:
+## Connect with Me
+- 📫 You can reach me through any of the following!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/andrea-to-chip" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:tochipandrea@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/keisha.tc" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+</div>
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ShadowZarina&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ShadowZarina&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShadowZarina&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Connect with Me
-- 📫 You can reach me through tochipandrea@gmail.com or through my LinkedIn!
+
 
