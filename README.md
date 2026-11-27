@@ -13,18 +13,19 @@
 
 
 ## 🦋 Interests: 
+- Project Management & Organization
 - UX/UI
 - Cybersecurity
 - Data Science
-- Project Management & Organization
-- Full-Stack Websites
+- Full-Stack Web Development
 
+<!--
 ## 🍒 What I'm Up To
 - Developing my Computer Science Portfolio
 - Finishing Neetcode 150 in LeetCode
 - Learning Data Structures and Algorithms (DSA)
 - Working on Potential Thesis Projects
-<!--
+
 - Learning DSA on Python and C
 - Completing Blind 75 in LeetCode
 - Finishing Neetcode 150 in LeetCode
